@@ -1,5 +1,5 @@
-ExtensibleEvaluationFrameworkPresentation
-=========================================
+Extensible Evaluation Framework Presentation
+============================================
 IPython Notebook describing taxonomy assignment framework presented in 
 
 *An extensible framework for optimizing classification enhances short-amplicon taxonomic assignments*
